@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/valodya-gevorgyan-783531274">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/Valodya-11">
+<a href="https://github.com/11vg11">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
