@@ -1,7 +1,15 @@
 <div align="center">
 
 <!-- Matrix Rain Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=200&section=header&text=Valodya%20Gevorgyan&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Incident%20Management%20%7C%20AI&descAlignY=58&descColor=39ff14" width="100%"/>
+<!-- Matrix Rain GIF Banner -->
+<img src="https://i.gifer.com/a4c.gif" width="100%" height="200" alt="Matrix Digital Rain"/>
+
+<!-- Then continue with your name text overlay if desired -->
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Valodya+Gevorgyan;Cybersecurity+%7C+Incident+Management+%7C+AI" alt="Typing SVG"/>
+  </h1>
+</div>
 
 <!-- Matrix Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+sudo+apt-get+install+knowledge;%3E+Incident+Management+Specialist+%40+Digitain;%3E+Cybersecurity+Student+%40+Picsart+Academy;%3E+Former+Erasmus+Student+%40+Sapienza+University;%3E+System+Online.+Ready+for+action." alt="Typing SVG" />
