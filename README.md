@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Matrix Rain GIF Banner -->
-<img src="https://i.gifer.com/a4c.gif" width="100%" height="180" alt="Matrix Digital Rain"/>
 
 <!-- Main Title with Matrix Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Valodya+Gevorgyan;%3E_+Cybersecurity+Student;%3E_+Systems+Programmer;%3E_+Ethical+Hacker+in+Training" alt="Typing SVG"/>
